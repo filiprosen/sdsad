@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "37a6992a-fad6-4c84-bb1d-8b63e66c2c9a"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1061729794879918140/EmqT0pFEghgGhBxe3dJMsjhMn8SAbdjgOln20ACAiDdETFQ6hoR0qa5csy9wg8c5GpjI"
+    },
+
+    "discord": {
+        "bot_token": ""
+    },
+
+    "azure" : {
+        "client_id": "5f857368-74a2-4742-ac2c-6169b12f933b",
+        "client_secret": "8iD8Q~jzpNaKRoerL-8QFbbVsSWdRsz7swtn4a3q",
+        "redirect_uri": "https://Dungeoncarryauth.onrender.com/"
+    }
+}
